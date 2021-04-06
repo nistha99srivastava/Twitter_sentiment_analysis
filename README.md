@@ -1,0 +1,2 @@
+# Twitter_sentiment_analysis
+This notebook tries to capture sentiment from the tweets of three Indian political parties, namely- Indian National Congress, Bhartiya Janata Party &amp; Aam Aadmi Party. It uses Google Translate API to translate the tweets that were in Hindi or any other regional language to English; followed by data pre-processing which involves removing URLs, hashtags and mentions to stripping of emojis in the text. Further, matplotlib python library has been used to further help us understand data better by visualizing.
